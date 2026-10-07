@@ -1,5 +1,5 @@
 # Resume
-Resume of Rahul Kumar | B.Tech CSE | Data Science and Machine Learning fresher | ML pipelines, Deep Learning, XGBoost, DVC, Docker, Flask
+Resume of Rahul Kumar | B.Tech CSE | Data Science and Machine Learning fresher | ML pipelines, Deep Learning, XGBoost, DVC, Docker, Flask, Excel,Power BI
 
 
 # Rahul Kumar - Resume
